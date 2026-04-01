@@ -6,7 +6,7 @@ on a pre-existing CSV file of course grades. Organizer.sh is a bash shell script
 
 How to run grade-evaluator.py
 > Type *python3 grade-evaluator.py*
-This script reads the grades.csv file, checks that scores and weights are valid, calculates the final grade and GPA,
+This script reads the csv file, checks that scores and weights are valid, calculates the final grade and GPA,
 determines whether the student has passed or failed based on formative and summative performance,
 and identifies any formative assignment eligible for resubmission if the student fails.
 
